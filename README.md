@@ -3,4 +3,4 @@ I'm Jake, in 2024 I started DarkVector with a vision to leverage Automation, Dee
 
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dajtp&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dajtp&theme=radical&title=-Stars,-Followers,-Reviews,-PullRequest,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
